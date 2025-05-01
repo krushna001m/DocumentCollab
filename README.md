@@ -24,7 +24,7 @@ Doc-Collab is a collaborative document editing platform designed to help users c
 
 ```bash
 git clone https://github.com/krushna001m/DocumentCollab.git
-cd Doc-Collab
+cd DocumentCollab
 npm install
 ```
 

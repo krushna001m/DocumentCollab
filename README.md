@@ -12,6 +12,9 @@ Doc-Collab is a collaborative document editing platform designed to help users c
 - 🔐 Unique document rooms with dynamic URLs
 - 🧑‍🤝‍🧑 Multi-user support
 
+## 🌍 Live Demo
+👉 [**View**](https://doc-collab.lovable.app/)  
+
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, Quill.js

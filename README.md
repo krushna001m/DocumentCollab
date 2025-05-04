@@ -5,12 +5,6 @@ Doc-Collab is a collaborative document editing platform designed to help users c
 
 ## 🚀 Features
 
-- 🖊️ Real-time collaborative editing
-- 🧠 Socket.IO-powered WebSocket communication
-- 📝 Rich text editor using Quill.js
-- 📂 Document auto-save and restore
-- 🔐 Unique document rooms with dynamic URLs
-- 🧑‍🤝‍🧑 Multi-user support
 
 ## 🌍 Live Demo
 👉 [**View**](https://doc-collab.lovable.app/)  

@@ -1,6 +1,5 @@
 # 📄DocumentCollab
 
-Doc-Collab is a collaborative document editing platform designed to help users create, edit, and manage documents in real-time. Built with modern web technologies, it allows multiple users to work on a single document simultaneously, making it ideal for teams, students, and remote workers.
 
 
 ## 🚀 Features

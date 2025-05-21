@@ -1,5 +1,14 @@
 # 📄DocumentCollab
 
+## 🧾 Internship Details
+
+* **Company**: CODTECH IT SOLUTIONS
+* **Intern Name**: Krushna Mengal
+* **Intern ID**: CT12WF14
+* **Domain**: Web Development
+* **Duration**: 12 Weeks
+* **Mentor**: Neela Santhosh Kumar
+
 Doc-Collab is a collaborative document editing platform designed to help users create, edit, and manage documents in real-time. Built with modern web technologies, it allows multiple users to work on a single document simultaneously, making it ideal for teams, students, and remote workers.
 
 
